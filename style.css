@@ -1,0 +1,24 @@
+
+  body {
+    
+    background-image: url("./Pics/0d681439-edb1-4876-9aad-83f09a45c80e.jpg");
+    background-repeat: repeat;
+    background-size: 250px;
+  }
+  .container{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: yellow;
+    margin: 100px 150px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: lightgrey;
+    box-shadow: 0 0 10px 2px;
+  }
+  
+  p {
+    font-size: 20px;
+    
+  }
+  
